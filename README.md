@@ -1,4 +1,4 @@
-Bash script for installing openbazaar server 
+Bash script for installing openbazaar server for raspberry pi 
 
 1. Installing the script git clone https://github.com/OpenBazaarServer_setup/blob/master/OpenBazaar.sh
 
